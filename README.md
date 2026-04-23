@@ -20,6 +20,17 @@ A simple program that calculates Body Mass Index (BMI) using user input.
   - Overweight
   - Obese
 
+### 2. Number Guessing Game
+A simple interactive game where the user tries to guess a randomly generated number.
+
+**Features:**
+- Generates a random number between 1 and 100
+- Allows multiple attempts until the correct guess
+- Provides hints:
+  - Too low
+  - Too high
+- Displays the number of attempts taken to guess correctly
+
 
 ## Purpose
 
