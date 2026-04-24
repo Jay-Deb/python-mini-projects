@@ -32,18 +32,32 @@ A simple interactive game where the user tries to guess a randomly generated num
 - Displays the number of attempts taken to guess correctly
 
 ### 3. Rock Paper Scissors Game
-A simple interactive game where the user plays Rock, Paper, Scissors against the computer until they choose to quit.
+A simple interactive game where the user plays Rock, Paper and Scissors against the computer until they choose to quit.
 
 **Features:**
 - Allows unlimited rounds of gameplay
 - User can exit the game anytime by typing `quit`
-- Computer randomly selects between rock, paper, and scissor
+- Computer randomly selects between rock, paper and scissor
 - Displays result after each round:
   - Win
   - Lose
   - Draw
 - Keeps track of user and computer scores
 - Shows final result after the game ends
+
+### 4. Age Calculator
+A simple program that calculates the current age of a person using their date of birth.
+
+**Features:**
+- Takes user input for birth date (year, month, day)
+- Calculates age in:
+  - Years
+  - Months
+  - Days
+- Handles invalid inputs using error checking
+- Prevents future date of birth entries
+- Accurately adjusts days and months based on calendar
+- Displays the current age as output
 
 
 ## Purpose
