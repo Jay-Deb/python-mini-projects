@@ -31,6 +31,20 @@ A simple interactive game where the user tries to guess a randomly generated num
   - Too high
 - Displays the number of attempts taken to guess correctly
 
+### 3. Rock Paper Scissors Game
+A simple interactive game where the user plays Rock, Paper, Scissors against the computer until they choose to quit.
+
+**Features:**
+- Allows unlimited rounds of gameplay
+- User can exit the game anytime by typing `quit`
+- Computer randomly selects between rock, paper, and scissor
+- Displays result after each round:
+  - Win
+  - Lose
+  - Draw
+- Keeps track of user and computer scores
+- Shows final result after the game ends
+
 
 ## Purpose
 
