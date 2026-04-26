@@ -59,6 +59,24 @@ A simple program that calculates the current age of a person using their date of
 - Accurately adjusts days and months based on calendar
 - Displays the current age as output
 
+### 5. Basic Calculator (Menu-Driven)
+A simple calculator program that performs various mathematical operations using a user-friendly menu system.
+
+**Features:**
+- Provides a menu-driven interface with options (1–9)
+- Performs basic operations:
+  - Addition
+  - Subtraction
+  - Multiplication
+  - Division
+- Supports advanced operations:
+  - Floor Division
+  - Modulus
+  - Exponentiation
+  - Square Root
+- Runs continuously using a loop until the user chooses to exit
+- Displays result instantly after each operation
+
 
 ## Purpose
 
