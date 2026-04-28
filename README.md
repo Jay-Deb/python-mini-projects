@@ -59,7 +59,7 @@ A simple program that calculates the current age of a person using their date of
 - Accurately adjusts days and months based on calendar
 - Displays the current age as output
 
-### 5. Basic Calculator (Menu-Driven)
+### 5. Basic Calculator
 A simple calculator program that performs various mathematical operations using a user-friendly menu system.
 
 **Features:**
@@ -76,6 +76,22 @@ A simple calculator program that performs various mathematical operations using 
   - Square Root
 - Runs continuously using a loop until the user chooses to exit
 - Displays result instantly after each operation
+
+### 6. Student Result Manager
+A simple program that manages student records and evaluates their results using a menu-driven system.
+
+**Features:**
+- Takes user input for student details (name and marks)
+- Allows operations like:
+  - Add student details
+  - View all student records
+  - Check student result (Pass/Fail)
+  - Update student marks
+  - Delete student records
+- Implements a grading system:
+  - A+, A, B, C and F based on marks
+- Handles invalid inputs using error checking (`try-except`)
+- Displays updated results instantly after each operation
 
 
 ## Purpose
